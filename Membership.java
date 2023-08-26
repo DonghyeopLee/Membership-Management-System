@@ -39,7 +39,7 @@ public class Membership {
         SetGasdeductionRate();
     }
 
-    public void SetType()
+    public void 
     {
         this.type = new SimpleStringProperty();
         if (getexpense()>=500 && getexpense()<1500)
